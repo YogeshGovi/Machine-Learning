@@ -1,0 +1,11 @@
+Resident,Salary,Commutation,Gender,Age,Marital,Education,Family Background,Siblings,Type
+Own,50000,Two Wheeler,M,Young,Single,Degree,Middle,yes,Poor
+Own,100000,Four Wheeler,F,Middle,Married,Degree,Rich,yes,Rich
+Own,40000,Public,M,Old,Married,NonDegree,Poor,yes,Poor
+Own,60000,Public,F,Young,Single,Degree,Rich,No,Rich
+Own,75000,Two Wheeler,M,Middlle,Single,Degree,Middle,No,Rich
+Rent,100000,Four Wheeler,M,Middle,Single,Degree,Rich,No,Rich
+Rent,50000,Public,F,Young,Married,Degree,Middle,yes,Poor
+Rent,40000,Public,M,Old,Married,Degree,Middle,yes,Poor
+Rent,80000,Four Wheeler,M,Middle,Single,Degree,Middle,No,Rich
+Rent,90000,Two Wheeler,M,Young,Married,Degree,Middle,yes,Rich
